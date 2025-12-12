@@ -16,13 +16,13 @@
 
 ```sh
 kibana-plugin install \
-         https://github.com/maliceio/malice-kibana-plugin/releases/download/v7.0.0/malice-7.0.0.zip
+         https://github.com/Cyb3rChi3f/malice-kibana-plugin/releases/download/v7.0.0/malice-7.0.0.zip
 ```
 
 ## development
 
 ```sh
-git clone https://github.com/maliceio/malice-kibana-plugin.git
+git clone https://github.com/Cyb3rChi3f/malice-kibana-plugin.git
 cd malice-kibana-plugin
 # start plugin
 make run
@@ -67,17 +67,17 @@ Open [https://localhost:5601/](https://localhost:5601/)
 
 ## issues
 
-Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/maliceio/malice-kibana-plugin/issues/new)
+Find a bug? Want more features? Find something missing in the documentation? Let me know! Please don't hesitate to [file an issue](https://github.com/Cyb3rChi3f/malice-kibana-plugin/issues/new)
 
 ## changelog
 
-See [`CHANGELOG.md`](https://github.com/maliceio/malice-kibana-plugin/blob/master/CHANGELOG.md)
+See [`CHANGELOG.md`](https://github.com/Cyb3rChi3f/malice-kibana-plugin/blob/master/CHANGELOG.md)
 
 ## contributing
 
-[See all contributors on GitHub](https://github.com/maliceio/malice-kibana-plugin/graphs/contributors).
+[See all contributors on GitHub](https://github.com/Cyb3rChi3f/malice-kibana-plugin/graphs/contributors).
 
-Please update the [CHANGELOG.md](https://github.com/maliceio/malice-kibana-plugin/blob/master/CHANGELOG.md) and submit a [Pull Request on GitHub](https://help.github.com/articles/using-pull-requests/).
+Please update the [CHANGELOG.md](https://github.com/Cyb3rChi3f/malice-kibana-plugin/blob/master/CHANGELOG.md) and submit a [Pull Request on GitHub](https://help.github.com/articles/using-pull-requests/).
 
 ## license
 
